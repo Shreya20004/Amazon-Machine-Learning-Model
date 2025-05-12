@@ -1,6 +1,5 @@
 # Amazon ML Model
 
-
 ## Overview
 This repository contains a machine learning model designed for the Amazon ML Challenge. The objective of the challenge is to extract entity values from product images accurately. The model utilizes advanced feature extraction techniques and deep learning architectures to achieve high precision.
 
@@ -31,7 +30,7 @@ In digital marketplaces, product images often lack detailed textual descriptions
 To set up the project, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Divivats/Amazon-ML-Model.git
+   git clone https://github.com/Shreya20004/Amazon-ML-Model.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -65,9 +64,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 For any queries or discussions, feel free to reach out:
-- **Author**: Divivats
-- **GitHub**: [Divivats](https://github.com/Divivats)
-- **Author**: Honey Paptan
-- **GitHub**: [HoneyPaptan](https://github.com/HoneyPaptan)
 
-
+- **Author**: Shreya  
+- **ID**: 22BAI70099  
+- **GitHub**: [@Shreya20004](https://github.com/Shreya20004)
